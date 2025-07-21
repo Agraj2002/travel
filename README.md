@@ -12,7 +12,7 @@ A modern and visually appealing Travel Landing Page showcasing beautiful destina
 
 ## 🚀 Live Demo
 
-👉 [View Live App](https://your-vercel-deployment-link.vercel.app)
+👉 [View Live App](https://travel-jet-xi.vercel.app/)
 
 > *(Replace the above link with your actual Vercel URL after deployment)*
 
